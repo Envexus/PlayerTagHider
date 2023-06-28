@@ -1,0 +1,6 @@
+name: PlayerTagHider
+version: '${project.version}'
+main: net.envexus.playertaghider.PlayerTagHider
+description: A Plugin to hide player nametags globally for all players. Requested by Bumblebeetuna in Apex Discord
+api-version: 1.19
+author: mgmadnesstv
